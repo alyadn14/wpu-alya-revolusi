@@ -1,3 +1,4 @@
 WPU RESOLUSI
 - Konsisten untuk berlatih ngoding 3x seminggu
-- Membuat koding di github untuk menyimpan projek
+- Menambahkan projek di github
+- Konsisten belajar di Youtube
